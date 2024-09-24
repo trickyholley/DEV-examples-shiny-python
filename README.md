@@ -1,4 +1,4 @@
-[![](https://docs.posit.co/connect-cloud/images/cc-deploy.svg)(https://connect.posit.cloud/publish?contentType=shiny&sourceRepositoryURL=https%3A%2F%2Fgithub.com%2Fposit-hosted%2Fexamples-shiny-python&sourceRef=main&sourceRefType=branch&primaryFile=app.py&pythonVersion=3.11)
+[![](https://docs.posit.co/connect-cloud/images/cc-deploy.svg)](https://connect.posit.cloud/publish?contentType=shiny&sourceRepositoryURL=https%3A%2F%2Fgithub.com%2Fposit-hosted%2Fexamples-shiny-python&sourceRef=main&sourceRefType=branch&primaryFile=app.py&pythonVersion=3.11)
 
 
 # Shiny for Python Example for Posit Connect Cloud Deployment
